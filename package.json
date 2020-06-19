@@ -1,0 +1,16 @@
+{
+  "name": "fem_js_from_fundamentals_to_functional_v2",
+  "version": "1.0.0",
+  "description": "A log of my journey through Frontend Masters",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.15",
+    "mocha": "^8.0.1"
+  }
+}
